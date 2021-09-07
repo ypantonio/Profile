@@ -1,0 +1,194 @@
+.profile-background {
+    background: linear-gradient(35.54deg, #2855AE -7.25%, #7292CF 90.75%);
+    padding-top: 1.7rem;
+   }
+   
+   .banner-profile h2{
+    color: #FFFFFF;
+    font-size: var(--size-parrafo2);
+    font-weight: 50;
+    font-style: normal;
+    margin-left: 3rem;
+    margin-top: 0.1rem;
+   }
+   
+   .banner-profile .arrow{
+    position: absolute;
+   }
+   
+   .banner-profile a{
+    position: absolute;
+    width: 8.6rem;
+    height: 2.8rem;
+    margin: 0rem 0.6rem 0rem 25.3rem;
+    background: #FFFFFF;
+    color: #6688CA;
+    font-size: 1.3rem;
+    font-weight: bold;
+    border-radius: 2rem;
+    text-decoration: none;
+   
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+   }
+   
+   .banner-profile .checked{
+    width: 1.21rem;
+    height: 0.87rem;
+    position: absolute;
+    margin: 1rem 0rem 0rem 26.3rem;
+   }
+   
+   .banner-profile .estrellas{
+    width: 33.34rem;
+    align-self: center;
+    position: absolute;
+    top: 9rem;
+   }
+   
+   .profile{
+    background-color: #fff;
+    border-radius: 4rem 4rem 0rem 0rem;
+    margin-top: -0.8rem;
+   }
+   .rectangulo{
+    width: 34rem;
+    height: 9.9rem;
+    border: 1px solid #5278C1;
+    border-radius: 1.5rem;
+    margin-top: -3rem;
+   }
+   
+   .rectangulo .cuadrado{
+    margin: 1.2rem;
+   }
+   
+   .rectangulo h2{
+    font-size: 2rem;
+    font-weight: 750;
+    color: #000000;
+    position: absolute;
+    margin: -8.3rem 0rem 0rem 9.9rem;
+   }
+   
+   .rectangulo span{
+    font-size: var(--size-parrafo);
+    font-weight: normal;
+    color: var(--gris2);
+    position: absolute;
+    margin: 5.3rem 0rem 0rem 0rem;
+   }
+   
+   .rectangulo .camara{
+    position: absolute;
+    margin: 1.5rem 0rem 0rem 20.3rem;
+   }
+   
+   .formulario {
+    margin-top: 3rem;
+    width: 100%;
+  
+    display: flex;
+    flex-wrap: wrap;
+   }
+   
+   .formulario_label{
+    font-size: 1.2rem;
+    color: var(--gris3);
+    margin-bottom: 3.5rem;
+    width: 16.1rem;
+   
+    display: flex;
+    flex-direction: column;
+   }
+   
+   .formulario_label img{
+    width: 1.3rem;
+    height: 1.58rem;
+    position: absolute;
+    margin: 2.5rem 0rem 0rem 14.5rem;
+   }
+   
+   .formulario_label input {
+    margin-right: 1.5rem;
+    max-width: 16.1rem;
+    height: 4rem;
+    border: none;
+    border-bottom: 1px solid #E1E3E8;
+    outline: none;
+    font-size: var(--texto);
+   }
+   
+   .formulario_label2{
+    font-size: 1.2rem;
+    color: var(--gris3);
+    margin-bottom: 3.5rem;
+    width: 16.1rem;
+    margin-top: -9rem;
+   
+    display: flex;
+    flex-direction: column;
+    align-self: flex-end;
+   }
+   
+   .formulario_label2 img{
+    width: 1.3rem;
+    height: 1.58rem;
+    position: absolute;
+    margin: 2.5rem 0rem 0rem 14.5rem;
+   }
+   
+   
+   .formulario_label2 input {
+    max-width: 16.1rem;
+    height: 4rem;
+    border: none;
+    border-bottom: 1px solid #E1E3E8;
+    outline: none;
+    font-size: var(--texto);
+   }
+   
+   .formulario_2 {
+    width: 100%rem;
+   
+    display: flex;
+    flex-wrap: wrap;
+   }
+   
+   .formulario_label_2{
+    font-size: 1.2rem;
+    color: var(--gris3);
+    margin-bottom: 3.5rem;
+   
+    display: flex;
+    flex-direction: column;
+   }
+   
+   .formulario_label_2 img{
+    width: 1.3rem;
+    height: 1.58rem;
+    position: absolute;
+    margin: 2.5rem 0rem 0rem 32.5rem;
+   }
+   
+   .formulario_label_2 input {
+    margin-right: 2rem;
+    width: 34.1rem;
+    height: 4rem;
+    border: none;
+    border-bottom: 1px solid #E1E3E8;
+    outline: none;
+    font-size: var(--texto);
+   }
+   
+   section{
+    max-width: 37.5rem;
+    height: auto;
+    margin: auto;
+    padding: 5rem 1.5rem;
+   
+    display: flex;
+    flex-direction: column;
+   }
