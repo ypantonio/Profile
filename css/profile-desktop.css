@@ -1,0 +1,20 @@
+.profile-background{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.profile{
+    border-radius: 4rem 4rem 4rem 4rem;
+    max-width: 80rem;
+    margin-top: 1.5rem;
+    margin-right: 5rem;
+}
+.formulario_label {
+    margin-left: 1.5rem;
+   }
+.banner-profile{
+    margin-left: 6rem;
+}
+   
